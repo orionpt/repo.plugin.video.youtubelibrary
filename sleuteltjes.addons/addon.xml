@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="sleuteltjes.addons" name="Sleuteltjes Addons" version="0.1.0" provider-name="Sleuteltje">
+    <addon id="sleuteltjes.addons" name="Sleuteltjes Addons" version="0.1.0" provider-name="orionpt">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
